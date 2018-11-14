@@ -10,9 +10,6 @@ logger = logging.getLogger(__name__)
 
 
 class EndPointBase(MethodView):
-    protected = True
-    protected_endpoints = []
-
     base_url = None
     route = ""
 
