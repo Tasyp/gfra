@@ -4,7 +4,7 @@
 
 ## Description
 
-GFRA stands for Google Functions REST Api
+**gfra** stands for **G**oogle **F**unctions **R**EST **A**PI
 
 ## Usage
 
